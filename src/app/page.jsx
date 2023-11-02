@@ -4,7 +4,6 @@ export default function Home() {
   return (
 <main>
   <h1>yoo</h1>
-<a href="./underside">dawgs</a>
 </main>
   )
 }
